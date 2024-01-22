@@ -21,7 +21,6 @@ public class arrayTemperaturas {
 	public static void rellenarConUnos(double[] array ) {
 		
 		
-		
 		for (int i=1 ; i< array.length; i++) {
 			
 			array[i] = 1.0;
